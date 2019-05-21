@@ -27,8 +27,3 @@ make non-searchable pdfs searchable using tesseract-ocr engine and magick
 * Run script from root folder of our project:
       command: <i>python main.py</i>
 
-                    ====== Set windows task scheduler ======
-
-it is better to learn from a video tutorial :
-  please check below YouTube URL : (if you still need any help for this, you can ask for it anytime.)
-      https://www.youtube.com/watch?v=n2Cr_YRQk7o
